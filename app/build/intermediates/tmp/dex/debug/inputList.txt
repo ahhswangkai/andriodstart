@@ -1,0 +1,5 @@
+/Users/wangkai/AndroidStudioProjects/Androidstart/app/build/intermediates/classes/debug
+/Users/wangkai/AndroidStudioProjects/Androidstart/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-73f922f86026f6b31c4b40c79383a919a36c9778.jar
+/Users/wangkai/AndroidStudioProjects/Androidstart/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b744afebadb991e7d20723c55327ac82064a573a.jar
+/Users/wangkai/AndroidStudioProjects/Androidstart/app/build/intermediates/pre-dexed/debug/classes-90bce9742972ca14b18edf031fad526898c49150.jar
+/Users/wangkai/AndroidStudioProjects/Androidstart/app/build/intermediates/pre-dexed/debug/classes-f20ef0057bd30cf92ce6cddf1aa130c39b7a1630.jar
